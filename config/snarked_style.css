@@ -1,0 +1,263 @@
+a {
+	COLOR: #485c6c;
+	text-decoration:;
+}
+a:hover {
+	color: #10201;
+}
+form {
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+.middlecell {
+}
+
+.smalltext {
+	font-family: serif;
+	font-size: 10pt;
+}
+IMG {
+	padding: 0px;
+	border-width: 0px;
+	border-color: #00ff00;
+	margin: 0px;
+}
+TABLE  {
+	color: inherit;
+	font-size: inherit;
+	font-family: inherit;
+	border: 0px solid white;
+	border-spacing: 0pt;
+	border-collapse: collapsed;
+
+}
+caption {
+	caption-side: top;
+	text-align: right;
+	padding: 0px;
+	margin-bottom: -.2em;
+}
+TD {
+	font-size: inherit;
+	color: inherit;
+	font-family: inherit;
+	padding: 0pt 2pt;
+	vertical-align: top;
+}
+.vbottom {
+	vertical-align: bottom;
+}
+
+.spacebelow {
+	padding-bottom: 7px;
+	font-family: inherit;
+}
+
+.small_numbers {
+	font-size: 8pt;
+}
+
+.basictext {
+#	COLOR: #7A8F9F;
+	COLOR: #334455;
+	FONT-FAMILY:  Sans-serif;
+	font-size: 10pt;
+}
+.byline {
+	padding-left: 5px;
+	padding-right: 5px;
+	Font-Family: Sans-serif;
+	font-size: 12pt;
+	font-weight: lighter;
+
+}
+
+.headtext {
+	Color: #7A8F9F;
+	Font-Family: Sans-serif;
+	font-size: 15pt;
+	font-weight: bold;
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+}
+#maintitle {
+	Color: white;
+	margin-bottom: 4px;
+}
+.ingredienttext {
+	font-size: 10pt;
+	COLOR: #7A8F9F;
+	FONT-FAMILY:  Sans-serif;
+}
+.instructiontext {
+	COLOR: #586959;
+	FONT-FAMILY:  Sans-serif;
+}
+.recipetable {
+	margin: 7px;
+	border: 1px solid  #666666;
+	background: #eeeeee;
+	border-spacing: 0px;
+	margin-bottom: 0px;
+}
+#padded {
+	padding: 4px;
+	margin: 10px;
+}
+.droplist {
+	letter-spacing: 0px;
+}
+.search_cell {
+	padding: 5px;
+}
+.searchresult_table {
+	padding: 10px;
+	border: 1px solid #637184;
+}
+.searchresult {
+	text-size: 12pt;
+	font-weight: bold;
+}
+.headerline {
+	color: white; 
+	font-family: sans-serif;
+	font-size: 14pt;
+	letter-spacing: -.07em;
+	border: 0px dashed white;
+	border-top-width: 1px;
+	text-align: left;
+	background: #adbfcf;
+}
+.closingline {
+	color: #637184; 
+	font-size: 10pt;
+	font-family: sans-serif;
+	margin-top: 10px;
+	border: 0px dashed white;
+	border-top-width: 1px;
+	text-align: left;
+	background: #adbfcf;
+}
+
+.left_third {
+	 width: 25%;
+	padding-right: 7px;
+}
+
+.middle_third {
+}
+
+ .right_third {
+	padding-left: 7px;
+	width: 200px;
+}
+.now_playing_box {
+	border: 1px solid #637185;
+}
+.playlist_box {
+	border: 1px solid #637185;
+	color: white;
+	background:#9aa7bb; 
+}
+.playlist_functions {
+	margin-left: 7px;
+	margin-right: 7px;
+	width: 0%;
+	text-align: center;
+}
+.playlist_line {
+	font-size: 10pt;
+	width: 100%;
+
+}
+#song_name {
+	width: 100px;
+}
+
+.playlist_table {
+	 background: #adbfcf;
+	width: 100%;
+}
+
+.control_function {
+	font-size: 10pt;
+	background: white;
+	width: 100%;
+	color: #adbfcf;
+	padding-top: 3px;
+	padding-bottom: 4px;
+	text-align: center;
+}
+
+.maincell {
+}
+
+.now_playing {
+	font-size: 10pt;
+	padding-bottom: 3px;
+
+}
+
+.search_results {
+	
+}
+
+.now_playing #channelnum {
+	font-weight: bold;
+}
+
+.now_playing #extra {
+		font-style: italic;
+
+}
+#color2 {
+	background: #fffdFF; 
+	color: #9aa7bb;
+}
+#color1 {
+	background: #DEEBFF; 
+	color: #9aa7bb;
+}
+#color0 {
+	background: #9AA7BB;
+	color: #deebff;
+}
+
+.vspace {
+	padding-top: 15px;
+	padding-bottom: 15px;
+
+
+}
+#hspace {
+	padding-right: 6px;
+	
+}
+#bighspace {
+	padding-right: 20px;
+}
+
+#smallfont {
+	font-size: 10pt;
+}
+
+.snarkedtable {
+	text-align: left;
+	border: 1px solid #637184;
+	background: #DEEBFF;
+	padding-left: 0px;
+	padding-right: 0px;
+	border-collapse: collapsed;
+	font-size: inherit;
+
+}
+
+
+
+.hr {
+	align: left;
+	border: 0px solid #c0c0c0;
+	border-top-width:1px;
+}

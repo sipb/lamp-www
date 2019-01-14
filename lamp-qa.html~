@@ -1,0 +1,154 @@
+<html>
+<head>
+<title>LAMP Frequently Asked Questions</title>
+<link REL=StyleSheet HREF="config/snarked_style.css" TYPE="text/css" MEDIA=screen>
+</head>
+<body>
+<center>
+<div class="snarkedtable">
+<div class="headerline">
+<table><tr><td>
+<span class="headtext" id="maintitle">
+<nobr>LAMP Frequently Asked Questions</nobr></span><br>
+<br>
+</nobr>
+
+</td><td width="100%"></td><td>
+</td></tr></table>
+</div>
+<div class="basictext">
+
+Last updated: October 20, 2004<P>
+
+<b>* What is LAMP?</b><P>
+
+LAMP is an electronic music library of classical and contemporary CDs
+that may be accessed across the MIT campus, including in student
+dormitory rooms and faculty offices. While at MIT, patrons can listen
+to CDs in the collection on demand, free of charge, over the MIT cable
+television system. We are using LAMP to research the effects of a
+more-accessible music library on education and music-listening
+behavior at MIT. More information is at <a
+href="http://lamp.mit.edu/">http://lamp.mit.edu/</a>.
+
+<P>
+
+<b>* Can I use LAMP?</b><P>
+
+MIT's LAMP library is available to students and employees of MIT, on
+the MIT campus. We are publishing the complete plans and the software
+royalty-free so that other universities and towns can make their own
+electronic music libraries.<P>
+
+<b>* How does LAMP work?</b><P>
+
+Using a Web browser, patrons visit <a
+href="http://lamp.mit.edu">http://lamp.mit.edu/</a> and create
+programs of about 30 minutes by requesting songs from the library in a
+particular order. In response, an array of robotic CD jukeboxes
+records those songs onto a hard drive. After the program is recorded,
+it becomes available for all patrons to play over one of 16 analog TV
+channels on MIT's analog cable TV system. Anyone on the MIT campus
+with a television, VCR, stereo, or computer tuner peripheral can tune
+in, but only 16 users can control playback at a time.<P>
+
+<b>* Can I donate music to LAMP?</b><P>
+
+Yes! We are happy to add your donated CDs to the collection. Please
+contact <a href="mailto:lamp@mit.edu">lamp@mit.edu</a> to arrange a
+donation.<P>
+
+<B>* What happened with last year's opening?</b><P>
+
+We bought 48,000 MP3 files on a hard drive from a Seattle company,
+Loudeye Corp. Loudeye represented in writing that it had permission
+from the record labels and music publishers to sell us the
+MP3s. Unfortunately, it looks like they made a mistake. After we
+announced the opening last October, Loudeye told us that they had not
+had permission to sell us the music they sold us. So, as a show of
+good faith, we announced on October 31, 2003 that we were temporarily
+closing LAMP until we could make sure the recordings in our collection
+were made under authorization from the record labels and music
+publishers. Since then, we have replaced Loudeye's MP3s (on hard
+drives) with actual CDs, stored in robotic jukeboxes.<P>
+
+<b>* Can any university/town implement an electronic music library like LAMP?</b><P>
+
+Any university or town that operates a cable television system could
+implement its own electronic music library patterned after LAMP. We
+are publishing the complete plans and the software royalty-free so
+that other universities and towns can make their own electronic music
+libraries.<P>
+
+<b>* How much did LAMP cost?</b><P>
+
+So far, we have spent about $15,000 on the transmission equipment and
+CD jukeboxes, and about $19,000 to buy 1,770 CDs. We <a
+href="http://lamp.mit.edu/lamp-streetfire.html">received a
+donation</a> of 10 StreetFire RBX1600 music servers from <a
+href="http://www.streetfiresound.com">StreetFire Sound Labs</a>. The
+RBX1600 servers control our 10 CD jukeboxes.<P>
+
+<b>* Will MIT share the collection of its music libraries over LAMP?</b><P>
+
+No, the MIT Lewis Music Library's collection will remain separate.
+LAMP has its own collection of CDs that were requested by students and
+faculty during a year-long survey.<P>
+
+<b>* Does MIT really think LAMP will stamp out illegal file-trading?</b><P>
+
+We certainly hope the ease of access to music through LAMP will cut
+down on students breaking the law just to listen to music. LAMP offers
+on-demand listening to about 25,000 songs more reliably than KaZaA
+can. And LAMP, unlike downloading songs through KaZaA, is legal.<P>
+
+<b>* Is this really legal? How?</b><P>
+
+We are transmitting music over the non-digital portion of MIT's
+internal cable television system. Because it is impossible to record
+exact copies of CDs from a non-digital cable television system, under
+the copyright law the licensing requirements are less stringent than
+for over the Internet: similar to the requirements for radio stations.<P>
+
+MIT, like most universities and radio stations, pays for blanket
+licenses from the three organizations -- ASCAP, BMI, and SESAC -- that
+have the power to authorize analog transmissions of virtually all
+songs. These blanket licenses cost about 60 cents per student per year
+in total, including cable television rights.<P>
+
+<b>* Who's behind LAMP?</b><P>
+
+LAMP is a joint project of the <a
+href="http://www.mit.edu/sipb/sipb.html">MIT Student Information
+Processing Board</a> (Josh Mandel/Keith Winstein) and <a
+href="http://web.mit.edu/mitcable">MIT Cable Television</a> (Randy
+Winchester). LAMP is generously supported by <a
+href="http://icampus.mit.edu">MIT iCampus</a> (MIT/Microsoft Research)
+and <a href="http://www.streetfiresound.com">StreetFire Sound
+Labs</a>, and is supervised by Professor <a href="http://swiss.csail.mit.edu/users/hal/">Hal Abelson</a>.<P>
+
+<b>* What is MIT's policy on students who do participate in illegal file-swapping?</b><P>
+
+MIT's policy is described at <a href="http://web.mit.edu/copyright/p2p.html">http://web.mit.edu/copyright/p2p.html</a><P>
+
+<b>* What's behind LAMP?</b><P>
+
+LAMP's hardware is off the shelf. We use a rackmount PC from <a
+href="http://www.tdl.com/~netex">Net Express</a> with two Delta 1010
+sound cards to drive 16 Blonder Tongue AMCM-806 television modulators.
+Ten Sony <a
+href="http://www.amazon.com/exec/obidos/tg/detail/-/B000069JWX/104-2252982-8400758?v=glance">CDP-CX455
+400-CD jukeboxes</a> hold the CDs, managed by ten StreetFire RBX1600
+music servers. The software is implemented using the other <a
+href="http://www.onlamp.com">LAMP</a>: GNU/<b>L</b>inux,
+<B>A</b>pache, <B>M</b>ySQL, <B>P</b>erl, and <B>P</B>HP. We also use
+C++ for time-critical code (audio playback and display).
+
+<div  class="closingline">LAMP: <a href="mailto:lamp@mit.edu">lamp@mit.edu</a></div>
+</div>
+</div>
+</center>
+
+</body>
+
+</html>

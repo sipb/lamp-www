@@ -1,0 +1,180 @@
+<HTML>
+<HEAD>
+<TITLE>lamp: Library Access to Music Project</TITLE>
+<LINK REL=StyleSheet HREF="config/snarked_style.css" TYPE="text/css" MEDIA=screen>
+</HEAD>
+<BODY>
+<center>
+<div class="snarkedtable">
+<div class="headerline">
+<table><tr><td>
+<span class="headtext" id="maintitle">
+<nobr>Library Access to Music Project</nobr></span><br>
+<br>
+</nobr>
+
+</td><td width="100%"></td><td>
+</td></tr></table>
+</div>
+<div class="basictext">
+
+<h4>Welcome to LAMP, the electronic music library at the Massachusetts Institute of Technology.</h4><p>
+
+<center>
+<table width="80%"><tr><td width="30%" id="bighspace"><div class="playlist_box"><b>The Library Access to Music Project has ended.</b></div><P>
+
+[October 11, 2016] LAMP closes after 15 years of the project, and 12 years after the library opened in October 2004. More than 4,100 distinct
+members of the MIT community served as "DJs" during that time, playing about 90 songs each day for the last 12 years. SIPB hosted a
+party on campus to commemorate the end of the project.<p>
+
+<iframe width="280" height="158" src="https://www.youtube.com/embed/WbEjhNfwKBA" frameborder="0" allowfullscreen></iframe>
+
+<p>
+
+[April 25, 2009] LAMP is up to 1,915 CDs. <p>
+
+[March 27, 2009] LAMP is now in stereo.
+
+<P>Please send questions,
+comments, and bug reports to <a
+href="mailto:lamp@mit.edu">lamp@mit.edu</a>.<P>
+
+<!-- <div class="playlist_box">
+
+<b>To use LAMP</b></div><P>
+
+<b>Step 1</b>: Make sure you are connected to <a
+href="http://ist.mit.edu/cable">MIT cable</a>. Use external
+speakers if possible.<p>
+
+<b>Step 2</b>: Please have your <a href="http://ca.mit.edu">MIT certificates ready</a>.<p>
+
+<b>Step 3</b>: <a href="https://lamp.mit.edu/"><b>Enter the library.</b></a>
+-->
+<p>
+<!--
+<div class="playlist_box"><b>Another option</b></div><P>
+
+The <a href="http://www.blc.org">Boston Library Consortium</a> and the
+<a href="http://libraries.mit.edu">MIT Libraries</a> are running a
+one-year project with Naxos, a classical music label. Through July
+2005, up to 100 individuals at Boston-area schools can access a large
+library of Naxos' classical recordings over the Internet on a Windows
+or Macintosh computer.<P>
+
+<a href="http://www.blc.org/news/naxos.html">BLC announcement</a>.<P>
+<a href="http://river.mit.edu/mitlibweb/FMPro?-db=resource.fp5&-format=full-record.html&-lay=web&-sortfield=title&-sortfield=titlesort&-sortfield=interface&Hide=no&title=naxos&-max=100&-recid=12615850&-find=">Information from the MIT Libraries</a>.<P>
+<B><a href="http://libraries.mit.edu/get/naxos">Enter the Naxos Music Library</a></B>.<P>
+-->
+</td><td width="50%"><div class="playlist_box"><b>About LAMP</b></div><P>
+
+<a href="lamp-qa.html">Frequently Asked Questions</a><p>
+
+<a href="lamp-streetfire.html">LAMP Receives Grant from StreetFire Sound Labs</a> (October 21, 2004)<P>
+
+<a href="thanks.html">LAMP Acknowledgements</a><p>
+
+<a href="pictures.html">Pictures of LAMP interface, equipment, creators</a><p>
+
+<a href="Winstein-Thesis.pdf">Winstein's Master's Thesis</a> (January 31, 2005)<p>
+
+<a href="Mandel-UAP.pdf">Mandel's Senior Project: LAMP Web interface</a> (May 9, 2005)<p>
+
+<a href="proposal.html">Original grant proposal</a> (Nov. 12, 2001)<p>
+
+<div class="playlist_box"><b>Older stuff (October 2003)</b></div><P>
+
+<a href="http://web.mit.edu/newsoffice/nr/2003/lamp.html">MIT Press Release on First Opening</a> (Oct. 27, 2003)<p>
+
+<a href="loudeye.txt">Loudeye Press Release on First Opening</a> (Oct. 27, 2003)<p>
+
+<a href="statement.html">MIT Statement: LAMP Closes Temporarily</a> (October 31, 2003)<P>
+
+<a href="lamp-0.91.tar.gz">LAMP software</a> (Oct. 27, 2003)<p>
+
+<div class="playlist_box"><b>Press coverage</b></div><P>
+
+<a href="http://web.mit.edu/newsoffice/2002/icampus-0522.html">Tech
+Talk</a> (May 22, 2002)</a>, <a
+href="http://www-tech.mit.edu/V123/N10/10icampus.10n.html">The
+Tech</a> (March 7, 2003)</a>, <a
+href="http://www.uhoh.org/nyt-20031027-mit-cable-music.htm">The New
+York Times</a> (October 27, 2003), <a
+href="http://www.boston.com/news/education/higher/articles/2003/10/27/mit_students_develop_alternative_to_file_swapping/">The
+Associated Press</a> (October 27, 2003), <a
+href="http://www.usatoday.com/life/2003-10-26-mit-music_x.htm">USA
+Today</a> (October 27, 2003), <a
+href="http://www.boston.com/business/globe/articles/2003/10/27/reinventing_the_jukebox_on_campus/">The
+Boston Globe</a> (October 27, 2003), <a
+href="http://www.npr.org/rundowns/rundown.php?prgDate=27-Oct-2003&prgId=3">NPR
+Morning Edition</a> (October 27, 2003), <a
+href="http://www.siliconvalley.com/mld/siliconvalley/7113917.htm">San
+Jose Mercury News</a> (October 27, 2003), <a
+href="http://arstechnica.com/archive/news/1067274920.html">Ars
+Technica</a> (October 27, 2003), <a
+href="http://slashdot.org/articles/03/10/27/1128243.shtml?tid=123&tid=141&tid=188&tid=99">Slashdot</a>
+(October 27, 2003), <a
+href="http://forums.fark.com/cgi/fark/comments.pl?IDLink=700005">Fark</a>
+(October 27, 2003), <a
+href="http://www.usatoday.com/tech/news/2003-11-01-mit-lamp-dimmed_x.htm">The
+Associated Press</a> (November 1, 2003), <a
+href="http://www.boston.com/business/globe/articles/2003/11/01/mit_stops_the_music">The
+Boston Globe</a> (November 1, 2003), <a
+href="http://slashdot.org/articles/03/11/01/2030227.shtml?tid=141&tid=188&tid=98&tid=99">Slashdot</a>,
+(November 1, 2003), <a
+href="http://forums.fark.com/cgi/fark/comments.pl?IDLink=707035">Fark</a>
+(November 2, 2003), <a
+href="http://www.dgl.com/he/readings/music_sharing_service_at_mit_is_shut_down.pdf">The
+New York Times</a> (November 3, 2003), <a
+href="http://seattletimes.nwsource.com/html/businesstechnology/2001783243_loudeye05.html">The
+Seattle Times</a> (November 5, 2003), <a
+href="http://www-tech.mit.edu/V123/N55/55lamp.55n.html">The Tech</a>
+(November 7, 2003), <a
+href="http://www-tech.mit.edu/V124/N5/5icampus.5n.html">The Tech</a>
+(February 17, 2004), <a
+href="http://www-tech.mit.edu/V124/N21/21newsbriefs.21n.html">The
+Tech</a> (April 23, 2004), <a
+href="http://web.mit.edu/mitcable/www/lamp-article.htm">The Tech</a>
+(August 4, 2004), <a
+href="http://www.linuxdevices.com/news/NS4807388091.html">LinuxDevices</a>
+(October 25, 2004), <a
+href="http://linux.slashdot.org/linux/04/10/25/0456248.shtml">Slashdot</a>
+(October 25, 2004), <a
+href="http://www.freedom-to-tinker.com/archives/000706.html">Freedom
+to Tinker</a> (October 25, 2004), <a href="http://tech.mit.edu/V124/PDF/N48.pdf">The Tech</a> (October 26, 2004), <a
+href="http://online.wsj.com/article/SB114427399413118129-search.html">The
+Wall Street Journal</a> (April 6, 2006).
+
+</td></tr>
+
+</table>
+</center>
+
+<hr>
+
+<table width="80%" align=center>
+<tr>
+<td class=vbottom><a href="http://www.mit.edu/sipb"><img src="sipb-logo2.gif"></a></td>
+<td class=vbottom><a href="http://web.mit.edu/mitcable/www"><img src="mitcable2.gif"></a></td>
+<td class=vbottom><a href="http://icampus.mit.edu"><img src="icampus.gif"></a></td>
+<td class=vbottom><a href="http://www.streetfiresound.com"><img src="streetfire2.gif"></a></td>
+</tr></table>
+<p>
+
+LAMP was a joint project of the <a
+href="http://www.mit.edu/sipb/sipb.html">MIT Student Information
+Processing Board</a> (Josh Mandel/Quentin Smith/Keith Winstein) and <a
+href="http://web.mit.edu/mitcable">MIT Cable Television</a> (Randy
+Winchester/Jon Ward). LAMP was generously supported by <a
+href="http://icampus.mit.edu">MIT iCampus</a> (MIT/Microsoft Research)
+and <a href="http://www.streetfiresound.com">StreetFire Sound
+Labs</a>, and was supervised by Professor <a href="http://swiss.csail.mit.edu/users/hal/">Hal Abelson</a>.
+
+<div  class="closingline">LAMP: <a href="mailto:lamp@mit.edu">lamp@mit.edu</a></div>
+</div>
+</div>
+</center>
+
+</BODY>
+
+</HTML>

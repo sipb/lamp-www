@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>LAMP Screenshots</title>
+<meta http-equiv="refresh" content="60">
+<link REL=StyleSheet HREF="config/snarked_style.css" TYPE="text/css" MEDIA=screen>
+</head>
+<body>
+<center>
+<div class="snarkedtable">
+<div class="headerline">
+<table><tr><td>
+<span class="headtext" id="maintitle">
+<nobr>LAMP Screenshots</nobr></span><br>
+<br>
+</nobr>
+
+</td><td width="100%"></td><td>
+</td></tr></table>
+</div>
+<div class="basictext">
+
+<b>Web interface (to "check out" TV channels, select songs and CDs, and control playback):</b><p>
+
+<img src="lamp-web.png"><p>
+
+<hr>
+
+<b>TV interface:</b><P>
+
+<img src="tvshot.jpeg"><p>
+
+<div  class="closingline">LAMP: <a href="mailto:lamp@mit.edu">lamp@mit.edu</a></div>
+</div>
+</div>
+</center>
+
+</body>
+
+</html>

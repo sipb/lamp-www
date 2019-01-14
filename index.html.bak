@@ -1,0 +1,81 @@
+<HTML>
+<HEAD>
+<TITLE>lamp: Library Access to Music Project</TITLE>
+<LINK REL=StyleSheet HREF="config/snarked_style.css" TYPE="text/css" MEDIA=screen>
+</HEAD>
+<BODY>
+<center>
+<div class="snarkedtable">
+<div class="headerline">
+<table><tr><td>
+<span class="headtext" id="maintitle">
+<nobr>Library Access to Music Project</nobr></span><br>
+<br>
+</nobr>
+
+</td><td width="100%"></td><td>
+</td></tr></table>
+</div>
+<div class="basictext">
+
+<h4>Welcome to LAMP, the electronic music library at the Massachusetts Institute of Technology.</h4><p>
+
+<center>
+<table width="80%"><tr><td width="50%"><div class="playlist_box"><b>Within MIT</b></td><td width="50%"><div class="playlist_box"><b>About LAMP</b></td></tr>
+<tr><td>
+1. Make sure you are connected to <a href="http://web.mit.edu/mitcable">MIT cable</a>. Use external speakers if possible.<p>
+
+2. Please have your <a href="http://ca.mit.edu">MIT certificates ready</a>.<p>
+
+3. <a href="https://lamp.mit.edu"><b>Enter the library</b></a>.
+
+</td><td>
+MIT Press Release (Oct. 27, 2003)<p>
+
+Loudeye Press Release (Oct. 27, 2003)<p>
+
+<a href="lamp-qa.html">Frequently Asked Questions</a> (Oct. 27, 2003)<p>
+
+<a href="screenshots.html">Screenshots</a><p>
+
+<a href="lamp-aup.pdf">Interim technical/legal paper</a> (May 26, 2003)<p>
+
+</td></tr>
+
+<tr><td colspan=2><div class="playlist_box"><b>Top songs in last week</b></div><p>
+
+<font size="-2"><table rules="rows" frame="all"><tr><td><B>Patrons playing</b></td><td><b>Name</b></td><td><b>Album</b></td><td><b>Composer / Artist</b></td></tr>
+<tr><td>14</td><td>The Scientist</td><td><a href="http://service.bfast.com/bfast/click?bfmid=2181&sourceid=40776771&bfpid=724354050428&bfmtype=music">A Rush Of Blood To The Head</a></td><td>Coldplay</td></tr>
+<tr><td>12</td><td>Clocks</td><td><a href="http://service.bfast.com/bfast/click?bfmid=2181&sourceid=40776771&bfpid=724354050428&bfmtype=music">A Rush Of Blood To The Head</a></td><td>Coldplay</td></tr>
+<tr><td>9</td><td>Still D.R.E.</td><td><a href="http://service.bfast.com/bfast/click?bfmid=2181&sourceid=40776771&bfpid=606949048624&bfmtype=music">2001 (Explicit)</a></td><td>Dr. Dre</td></tr>
+<tr><td>9</td><td>Ignition (Remix)</td><td><a href="http://service.bfast.com/bfast/click?bfmid=2181&sourceid=40776771&bfpid=012414181220&bfmtype=music">Chocolate Factory</a></td><td>R. Kelly</td></tr>
+<tr><td>9</td><td>The Next Episode</td><td><a href="http://service.bfast.com/bfast/click?bfmid=2181&sourceid=40776771&bfpid=606949048624&bfmtype=music">2001 (Explicit)</a></td><td>Dr. Dre</td></tr>
+<tr><td>8</td><td>By The Way</td><td><a href="http://service.bfast.com/bfast/click?bfmid=2181&sourceid=40776771&bfpid=093624814023&bfmtype=music">By The Way</a></td><td>Red Hot Chili Peppers</td></tr>
+<tr><td>8</td><td>#1</td><td><a href="http://service.bfast.com/bfast/click?bfmid=2181&sourceid=40776771&bfpid=044001774720&bfmtype=music">Nellyville</a></td><td>Nelly</td></tr>
+<tr><td>7</td><td>The Boys Of Summer</td><td><a href="http://service.bfast.com/bfast/click?bfmid=2181&sourceid=40776771&bfpid=696998618428&bfmtype=music">So Long, Astoria</a></td><td>The Ataris</td></tr>
+<tr><td>7</td><td>...Baby One More Time</td><td><a href="http://service.bfast.com/bfast/click?bfmid=2181&sourceid=40776771&bfpid=012414165121&bfmtype=music">...Baby One More Time</a></td><td>Britney Spears</td></tr>
+<tr><td>7</td><td>Notorious B.I.G. (Remix)</td><td><a href="http://service.bfast.com/bfast/click?bfmid=2181&sourceid=40776771&bfpid=786127306224&bfmtype=music">P. Diddy & Bad Boy Records Present...We Invented The Remix</a></td><td>The Notorious B.I.G.</td></tr>
+</table></font>
+</td></tr>
+
+</table>
+</center>
+
+<hr>
+
+LAMP is a joint project of the MIT <a
+href="http://www.mit.edu/sipb/sipb.html">Student Information
+Processing Board</a> (Josh Mandel/Keith Winstein) and <a
+href="http://web.mit.edu/mitcable">MIT Cable Television</a> (Randy
+Winchester). LAMP is funded by the <a
+href="http://icampus.mit.edu">iCampus Alliance</a> (MIT/Microsoft
+Research) and supervised by Professor Hal Abelson.
+
+<div  class="closingline">LAMP: <a href="mailto:lamp@mit.edu">lamp@mit.edu</a></div>
+</div>
+</div>
+</center>
+
+</BODY>
+
+</HTML>

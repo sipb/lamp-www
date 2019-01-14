@@ -1,0 +1,38 @@
+<html>
+<head>
+  <title>9.44 experiment</title>
+</head>
+<body BGCOLOR="#bfbfbf">
+<table CELLPADDING="7" WIDTH="640" BGCOLOR="#8f8f8f">
+  <tr>
+    <td bgcolor="#ffffff"><font face="trebuchet ms, verdana, arial" size="2">Welcome
+      to the experiment. &nbsp;Please fill in some quick preliminary information
+      before starting!<br>
+      <br>
+      <br>
+
+<form method=post action="begin.cgi">
+
+      Age: 
+      <input NAME="age" size="5"><br>
+      <br>
+      Gender:
+      <select NAME="gender">
+      <option SELECTED></option>
+      <option>male</option>
+      <option>female</option>
+      </select>
+      <br><br>
+      Native speaker of [list languages]: 
+      <input NAME="language" size="30"><br>
+      <br>
+      </font>
+      <p align="center">
+      <input TYPE="SUBMIT" VALUE="next &gt;"> <br>
+
+      </form>
+    </td>
+  </tr>
+</table>
+<p>
+</body></html>

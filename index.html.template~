@@ -1,0 +1,93 @@
+<HTML>
+<HEAD>
+<TITLE>lamp: Library Access to Music Project</TITLE>
+<LINK REL=StyleSheet HREF="config/snarked_style.css" TYPE="text/css" MEDIA=screen>
+</HEAD>
+<BODY>
+<center>
+<div class="snarkedtable">
+<div class="headerline">
+<table><tr><td>
+<span class="headtext" id="maintitle">
+<nobr>Library Access to Music Project</nobr></span><br>
+<br>
+</nobr>
+
+</td><td width="100%"></td><td>
+</td></tr></table>
+</div>
+<div class="basictext">
+
+<h4>Welcome to LAMP, the electronic music library at the Massachusetts Institute of Technology.</h4><p>
+
+<center>
+<table width="80%"><tr><td width="30%" id="bighspace"><div class="playlist_box"><b>Within MIT</b></td><td width="50%"><div class="playlist_box"><b>About LAMP</b></td></tr>
+<tr><td>
+<b>LAMP is Temporarily Suspended</b><p>
+
+MIT's Library Access to Music service lets students listen to music over
+MIT's analog cable television system.  LAMP was designed to operate in
+full compliance with the law and to respect the rights of all copyright
+holders.
+<p>
+MIT has at all times sought to implement a legal music service for its
+students. We relied on Loudeye to provide us with authorized content
+and for Loudeye to facilitate and obtain the appropriate licenses.  We
+have been working with Loudeye on obtaining content since October 2002
+and Loudeye assured us on multiple occasions that the content they
+provided to us was prepared fully under authorization from the record
+labels and on behalf of the publishers.
+<p>
+MIT took on the responsibility of having the proper public performing
+licenses from ASCAP, BMI, and SESAC. After the LAMP service was launched,
+Loudeye informed us that some of their assurances to us may have been
+mistaken. We are therefore temporarily suspending the LAMP service while
+we pursue clarifying discussions with Loudeye, the record labels,
+and music publishers. MIT continues to be committed to developing
+a fully licensed service.<p>
+
+
+</td><td>
+<a href="http://web.mit.edu/newsoffice/nr/2003/lamp.html">MIT Press Release</a> (Oct. 27, 2003)<p>
+
+<a href="loudeye.txt">Loudeye Press Release</a> (Oct. 27, 2003)<p>
+
+<a href="lamp-qa.html">Frequently Asked Questions</a> (Oct. 27, 2003)<p>
+
+<a href="pictures.html">Pictures of LAMP creators, LAMP system</a><p>
+
+<a href="lamp-aup.pdf">Interim technical/legal paper</a> (May 26, 2003)<p>
+
+<a href="lamp-0.91.tar.gz">LAMP software</a> (Oct. 27, 2003)<p>
+
+Coverage in: <a href="http://www.nytimes.com/2003/10/27/technology/27mit.html?ex=1067835600&en=1d631b1b90adbb8f&ei=5062&partner=GOOGLE">The New York Times</a>, <a href="http://www.boston.com/news/education/higher/articles/2003/10/27/mit_students_develop_alternative_to_file_swapping/">The Associated Press</a>, <a href="http://www.usatoday.com/life/2003-10-26-mit-music_x.htm">USA Today</a>, <a href="http://www.boston.com/dailyglobe2/300/business/Reinventing_the_jukebox_on_campus+.shtml">The Boston Globe</a>, <a href="http://www.npr.org/rundowns/rundown.php?prgDate=27-Oct-2003&prgId=3">NPR Morning Edition</a>, <a href="http://www.bayarea.com/mld/mercurynews/business/7113917.htm">San Jose Mercury News</a>, <a href="http://arstechnica.com/archive/news/1067274920.html">Ars Technica</a>, <a href="http://slashdot.org/articles/03/10/27/1128243.shtml?tid=123&tid=141&tid=188&tid=99">Slashdot</a>, <a href="http://forums.fark.com/cgi/fark/comments.pl?IDLink=700005">Fark.com</a>, <a href="http://www.latimes.com/business/la-fi-mit31oct31,1,7242223.story">Los Angeles Times</a>, <a href="http://seattlepi.nwsource.com/business/apbiz_story.asp?category=1310&slug=File%20Swapping%20Alternative">The Associated Press</a>, <a href="http://www.boston.com/business/globe/articles/2003/11/01/mit_stops_the_music">The Boston Globe</a>, <a href="http://slashdot.org/articles/03/11/01/2030227.shtml?tid=141&tid=188&tid=98&tid=99">Slashdot</a>.
+
+</td></tr>
+
+<tr><td colspan=2><div class="playlist_box"><b>Top songs in last week</b></div><p>
+
+INSERT_TABLE_HERE
+
+</td></tr>
+
+</table>
+</center>
+
+<hr>
+
+LAMP is a joint project of the MIT <a
+href="http://www.mit.edu/sipb/sipb.html">Student Information
+Processing Board</a> (Josh Mandel/Keith Winstein) and <a
+href="http://web.mit.edu/mitcable">MIT Cable Television</a> (Randy
+Winchester). LAMP is funded by the <a
+href="http://icampus.mit.edu">iCampus Alliance</a> (MIT/Microsoft
+Research) and supervised by Professor Hal Abelson.
+
+<div  class="closingline">LAMP: <a href="mailto:lamp@mit.edu">lamp@mit.edu</a></div>
+</div>
+</div>
+</center>
+
+</BODY>
+
+</HTML>
